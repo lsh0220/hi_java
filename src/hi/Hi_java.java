@@ -6,7 +6,7 @@ public class Hi_java {
 		System.out.println("Hello");
 		System.err.println("성공했네~~~ 기쁘다");
 		System.out.println("다시 시도함!");
-		System.out.println("막트");
+		System.out.println("3차 시도");
 	}
 
 }
