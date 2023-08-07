@@ -8,6 +8,7 @@ public class Hi_java {
 		System.out.println("다시 시도함!");
 		System.out.println("3차 시도");
 		System.out.println("4차");
+		System.out.println("plz key out_save");
 	}
 
 }
