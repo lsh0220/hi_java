@@ -9,6 +9,7 @@ public class Hi_java {
 		System.out.println("3차 시도");
 		System.out.println("4차");
 		System.out.println("plz key out_save");
+		System.out.println("마지막 실험");
 	}
 
 }
